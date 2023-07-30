@@ -14,4 +14,11 @@ Images can be as simple as following one "Single Person"
 Or It can be as complicated as below
 ![image](https://github.com/DurgaSandeep25/Image-Segmentation-UNet/assets/38128597/10a0ea55-d5d7-464e-bc44-6480691a90ca)
 
+**Model Architecture** : UNet Pretrained with
+Encoder = TIMM Efficient Net
+Weights = Imagenet
+
+![image](https://github.com/DurgaSandeep25/Image-Segmentation-UNet/assets/38128597/826080dc-9d27-40a5-8d57-7b144ec04198)
+
+
 
