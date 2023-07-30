@@ -1,5 +1,5 @@
 # Image-Segmentation-UNet
-**UNetify:** Masterful Image Segmentation with Pre-Trained UNet from Pytorch
+**UNetify:** Masterful Image Segmentation with Pre-Trained UNet using Pytorch
 
 **Objective:** To identify all individuals in an image accurately. No more mystery faces! This can be used for crowd analysis, event management, or any project needing precise human detection.
 
