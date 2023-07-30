@@ -3,10 +3,8 @@
 
 This project lays the groundwork for creating highly advanced applications, such as segmenting images into distinct objects or persons—technology often utilized in self-driving cars
 
-![image](https://github.com/DurgaSandeep25/Image-Segmentation-UNet/assets/38128597/4afcce3c-39b8-433c-81c5-5bf49f6e69d7)
+![image](https://github.com/DurgaSandeep25/Image-Segmentation-UNet/assets/38128597/356c3cc7-23ef-4898-b4e8-e8e1e6013ca3)
 
-Above image is from following article:
-https://medium.com/@adliaulia16/my-first-project-in-computer-vision-cityscape-semantic-segmentation-using-unet-9d90cb9716b3
 
 **Objective:** To identify all individuals in an image accuracy. No more mystery faces! This can be used for crowd analysis, event management, or any project needing precise human detection.
 
