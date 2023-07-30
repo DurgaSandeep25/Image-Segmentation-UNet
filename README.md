@@ -27,8 +27,10 @@ loss function = DiceLoss + Binary Cross Entropy Loss
 
 **Model Performance**: As you can see, loss is not smooth, mainly because of less data points in train and validation set.
 
+![image](https://github.com/DurgaSandeep25/Image-Segmentation-UNet/assets/38128597/8ed89550-7d80-43fe-a5f1-b8e6e6bb0f36)
 
-**Inference**
+**Inference**: Model was able to learn very well with not more than 200 training samples
 
+![image](https://github.com/DurgaSandeep25/Image-Segmentation-UNet/assets/38128597/591872db-4e70-4a98-903a-bd99cb1abf04)
 
-
+![image](https://github.com/DurgaSandeep25/Image-Segmentation-UNet/assets/38128597/98d11786-3247-4039-8dee-5f7da078fac4)
